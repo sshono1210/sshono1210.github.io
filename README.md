@@ -1,1 +1,2 @@
-https://sshono1210.github.io/
+## 概要
+自習用の issue を立てるリポジトリ
